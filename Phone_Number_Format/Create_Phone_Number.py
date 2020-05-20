@@ -1,5 +1,5 @@
 '''
-Title: Create Phone Number, a test from codewars.com. Test created by xDranik
+Title: Create a function that formats a Phone Number, a test from codewars.com. Test created by xDranik
 Solution by: Caleb Ellis
 Date: 5/19/2020
 
